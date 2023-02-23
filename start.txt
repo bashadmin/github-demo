@@ -1,3 +1,5 @@
 That's a great way to start!
 You start in your working directory before you track files to the staging area?
 After you do a git add, you added your files from your working directory to your staging area?
+after you make a commit, the working directory is marked clean
+after you push, you push all your changes to the remote repository and are now in sync between local and remote branches
